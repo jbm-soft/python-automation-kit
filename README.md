@@ -3,7 +3,7 @@
 Python automation, RPA, web scraping, Excel & batch workflow utilities.
 
 > 🌐 Website: [https://jbmsoft.co.kr](https://jbmsoft.co.kr)  
-> 📦 Modules are curated, sanitized, and published incrementally.
+> 📦 Published Modules: **1**
 
 ---
 
@@ -11,4 +11,10 @@ Python automation, RPA, web scraping, Excel & batch workflow utilities.
 
 | Module | Language | Summary |
 | --- | --- | --- |
-| *(First modules arriving shortly via scheduled publishing)* | | |
+| [link_mobile_nav.py](modules/glt-signage-quote-link-mobile-nav) | `Python` | -*- coding: utf-8 -*- |
+
+---
+
+## 🛡 Security & Privacy
+
+All modules in this repository are stripped of API keys, credentials, signing configs, and proprietary business data, focusing strictly on clean, reusable engineering patterns.
