@@ -14,5 +14,13 @@
     "filename": "_pack_now.py",
     "summary": "-*- coding: utf-8 -*-",
     "published_at": "2026-11-27T19:17:41"
+  },
+  {
+    "id": "business-tool-worker-a01ab6",
+    "dir_name": "business-tool-worker",
+    "language": "Python",
+    "filename": "worker.py",
+    "summary": "Reusable Python module featuring `_asset_path` (`worker.py`).",
+    "published_at": "2026-11-28T19:17:45"
   }
 ]
